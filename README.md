@@ -162,4 +162,4 @@ Thanks https://github.com/sgruhier/foundation_rails_helper for the gem template.
 
 ## Copyright
 
-Renuo GmbH (https://www.renuo.ch) - MIT LICENSE - 2016
+Renuo AG (https://www.renuo.ch) - MIT LICENSE - 2016
